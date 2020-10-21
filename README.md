@@ -1,2 +1,1 @@
-# Modelo-EspacioVectorial
-Topicos en BD
+#Modelo Espacio-Vectorial Modelo Booleano
